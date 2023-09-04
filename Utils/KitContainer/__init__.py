@@ -21,7 +21,7 @@ if __name__ == '__main__':
             translated_comments.loc[index] = [translated_text]
             pbar.update(1)
     df['kr_comments'] = translated_comments['kr_comments']
-    df.to_csv('df2.csv', index=False)
+    df.to_csv(base_path + '\\translated_csv\\df2Output.csv', index=False)
 
 
 #test = pd.read_csv('C:\\Users\\lucky\\Documents\\COLLABORATION\\AirbnbWise\\Tokyo_Airbnb\\yunyoung\\translated_csv\\test.csv')
