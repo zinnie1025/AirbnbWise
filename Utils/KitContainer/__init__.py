@@ -7,7 +7,7 @@ import sys
 #sys.path.append("C:\\Users\\lucky\\Documents\\COLLABORATION\\AirbnbWise\\Utils")
 #sys.path.append("C:\\Users\\lucky\\Documents\\COLLABORATION\\AirbnbWise\\Utils\\KitContainer")
 base_path = 'C:\\Users\\lucky\\Documents\\COLLABORATION\\AirbnbWise\\Tokyo_Airbnb\\yunyoung'
-want_path = base_path + '\\translated_csv\\df2.csv'
+want_path = base_path + '\\translated_csv\\df5.csv'
 df = pd.read_csv(want_path)
 
 if __name__ == '__main__':
@@ -21,7 +21,8 @@ if __name__ == '__main__':
             translated_comments.loc[index] = [translated_text]
             pbar.update(1)
     df['kr_comments'] = translated_comments['kr_comments']
-    df.to_csv(base_path + '\\translated_csv\\df2Output.csv', index=False)
+    df.to_csv(base_path + '\\translated_csv\\df5Output.csv', index=False)
 
 
 #test = pd.read_csv('C:\\Users\\lucky\\Documents\\COLLABORATION\\AirbnbWise\\Tokyo_Airbnb\\yunyoung\\translated_csv\\test.csv')
+#! want_path, df_to_csv 숫자 변경
