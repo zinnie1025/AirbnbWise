@@ -1,501 +1,501 @@
-user_id,region,price,accommodates,minimum_nights
-0,Setagaya Ku,5503.00,1,2
-1,Shinagawa Ku,10143.00,1,1
-2,Chiyoda Ku,40000.00,2,1
-3,Toshima Ku,8329.00,2,1
-4,Shinjuku Ku,23873.00,3,2
-5,Koto Ku,20000.00,4,1
-6,Toshima Ku,1052387.00,2,2
-7,Shinjuku Ku,3729.00,1,1
-8,Taito Ku,14793.00,2,1
-9,Toshima Ku,10000.00,6,2
-10,Shinjuku Ku,8049.00,3,2
-11,Fuchu Shi,3000.00,1,1
-12,Bunkyo Ku,13200.00,4,1
-13,Taito Ku,19200.00,5,2
-14,Shinjuku Ku,26571.00,5,1
-15,Itabashi Ku,29429.00,7,1
-16,Shinjuku Ku,10261.00,4,2
-17,Taito Ku,13800.00,2,2
-18,Shinjuku Ku,8000.00,2,1
-19,Ota Ku,4000.00,1,1
-20,Taito Ku,12549.00,2,1
-21,Setagaya Ku,8000.00,2,1
-22,Minato Ku,6743.00,2,2
-23,Toshima Ku,10571.00,3,2
-24,Toshima Ku,15371.00,3,1
-25,Bunkyo Ku,10571.00,2,1
-26,Shibuya Ku,29714.00,5,4
-27,Shibuya Ku,4380.00,2,1
-28,Setagaya Ku,19886.00,2,1
-29,Toshima Ku,8245.00,3,2
-30,Shinjuku Ku,15081.00,3,1
-31,Taito Ku,14564.00,2,1
-32,Taito Ku,8800.00,3,2
-33,Shinjuku Ku,14000.00,2,1
-34,Arakawa Ku,27857.00,4,1
-35,Shinjuku Ku,33857.00,7,2
-36,Shinjuku Ku,29857.00,5,1
-37,Toshima Ku,15029.00,2,1
-38,Ota Ku,14743.00,3,2
-39,Shibuya Ku,24064.00,2,1
-40,Shinjuku Ku,5980.00,8,2
-41,Shibuya Ku,22800.00,4,1
-42,Sumida Ku,21571.00,6,4
-43,Taito Ku,11257.00,2,1
-44,Shibuya Ku,30000.00,5,2
-45,Taito Ku,32143.00,14,1
-46,Shinjuku Ku,21943.00,5,1
-47,Sumida Ku,8383.00,3,2
-48,Taito Ku,23257.00,3,1
-49,Shinjuku Ku,16000.00,3,2
-50,Bunkyo Ku,20072.00,8,2
-51,Shinjuku Ku,12000.00,4,30
-52,Shibuya Ku,30571.00,3,4
-53,Minato Ku,15443.00,3,1
-54,Kita Ku,8361.00,4,2
-55,Shibuya Ku,14024.00,8,2
-56,Itabashi Ku,9228.00,3,2
-57,Minato Ku,32200.00,3,2
-58,Shinjuku Ku,11329.00,3,1
-59,Hino Shi,6400.00,3,4
-60,Sumida Ku,12000.00,4,4
-61,Taito Ku,12484.00,2,1
-62,Taito Ku,13543.00,2,1
-63,Shibuya Ku,26857.00,6,1
-64,Nakano Ku,11071.00,2,2
-65,Setagaya Ku,10000.00,3,2
-66,Toshima Ku,10571.00,4,3
-67,Shinjuku Ku,16223.00,3,1
-68,Ota Ku,15449.00,6,1
-69,Ota Ku,6375.00,2,2
-70,Sumida Ku,6343.00,2,3
-71,Shinjuku Ku,19714.00,4,5
-72,Chuo Ku,14057.00,2,1
-73,Taito Ku,16521.00,2,1
-74,Kita Ku,15062.00,8,2
-75,Shinjuku Ku,16286.00,3,2
-76,Shinjuku Ku,33700.00,5,1
-77,Chuo Ku,32200.00,2,2
-78,Adachi Ku,6723.00,1,1
-79,Shinjuku Ku,19571.00,6,5
-80,Edogawa Ku,16480.00,3,1
-81,Shinjuku Ku,6857.00,1,1
-82,Sumida Ku,8303.00,3,2
-83,Shinjuku Ku,11800.00,2,1
-84,Shibuya Ku,26714.00,4,1
-85,Higashimurayama Shi,8000.00,2,7
-86,Chiyoda Ku,13426.00,4,1
-87,Kokubunji Shi,7086.00,2,12
-88,Shibuya Ku,23124.00,7,1
-89,Sumida Ku,42990.00,10,2
-90,Taito Ku,18664.00,4,2
-91,Nakano Ku,13800.00,4,1
-92,Arakawa Ku,2336.00,1,1
-93,Toshima Ku,18857.00,4,3
-94,Katsushika Ku,7929.00,4,1
-95,Setagaya Ku,5684.00,2,2
-96,Shibuya Ku,32857.00,4,1
-97,Shibuya Ku,25000.00,8,20
-98,Shinjuku Ku,10200.00,2,1
-99,Chiyoda Ku,15837.00,2,1
-100,Shinjuku Ku,47857.00,14,1
-101,Taito Ku,11566.00,2,2
-102,Shibuya Ku,7796.00,3,1
-103,Shinjuku Ku,30857.00,3,1
-104,Shibuya Ku,20000.00,2,1
-105,Sumida Ku,15814.00,3,1
-106,Sumida Ku,18371.00,6,1
-107,Shinjuku Ku,10857.00,3,1
-108,Shibuya Ku,12374.00,3,2
-109,Shinjuku Ku,26143.00,5,1
-110,Shibuya Ku,8000.00,2,2
-111,Shinjuku Ku,12571.00,4,1
-112,Shinjuku Ku,18000.00,3,1
-113,Suginami Ku,4200.00,3,1
-114,Taito Ku,6286.00,2,1
-115,Shinjuku Ku,50571.00,6,2
-116,Chuo Ku,10100.00,2,1
-117,Toshima Ku,8000.00,2,1
-118,Shinjuku Ku,11200.00,2,1
-119,Nakano Ku,29000.00,16,1
-120,Sumida Ku,9429.00,2,5
-121,Shinjuku Ku,14286.00,3,3
-122,Shinjuku Ku,10566.00,2,2
-123,Minato Ku,20571.00,6,1
-124,Shinjuku Ku,41786.00,8,5
-125,Chiyoda Ku,40000.00,2,1
-126,Ota Ku,10726.00,3,1
-127,Toshima Ku,10571.00,4,3
-128,Shinjuku Ku,11057.00,2,1
-129,Taito Ku,18018.00,4,2
-130,Shinjuku Ku,18800.00,6,1
-131,Sumida Ku,38286.00,6,1
-132,Taito Ku,27500.00,2,1
-133,Shinjuku Ku,19543.00,2,1
-134,Chuo Ku,23000.00,3,1
-135,Edogawa Ku,10000.00,6,2
-136,Shinjuku Ku,23873.00,3,2
-137,Ota Ku,12371.00,4,2
-138,Edogawa Ku,7000.00,3,2
-139,Toshima Ku,34153.00,8,2
-140,Nakano Ku,11200.00,3,1
-141,Nakano Ku,31286.00,6,1
-142,Toshima Ku,15200.00,7,2
-143,Shinjuku Ku,11000.00,5,2
-144,Machida Shi,8000.00,7,2
-145,Setagaya Ku,6294.00,3,2
-146,Nakano Ku,26240.00,13,20
-147,Toshima Ku,8686.00,3,2
-148,Chuo Ku,6000.00,2,2
-149,Setagaya Ku,17439.00,4,1
-150,Shinjuku Ku,25000.00,5,5
-151,Taito Ku,12571.00,2,1
-152,Sumida Ku,21143.00,6,2
-153,Shinjuku Ku,8979.00,2,1
-154,Sumida Ku,8429.00,3,2
-155,Shinjuku Ku,9560.00,1,1
-156,Katsushika Ku,28514.00,6,2
-157,Fuchu Shi,6286.00,2,1
-158,Toshima Ku,13829.00,3,1
-159,Taito Ku,18000.00,1,1
-160,Sumida Ku,16800.00,5,1
-161,Toshima Ku,9714.00,5,2
-162,Nakano Ku,8857.00,2,2
-163,Shinjuku Ku,16212.00,5,2
-164,Kita Ku,20000.00,6,20
-165,Taito Ku,6314.00,3,2
-166,Ota Ku,6059.00,4,2
-167,Sumida Ku,13329.00,3,1
-168,Suginami Ku,26000.00,6,2
-169,Shinjuku Ku,6771.00,2,1
-170,Shinjuku Ku,98428.00,2,1
-171,Taito Ku,35000.00,10,2
-172,Shinjuku Ku,19500.00,4,1
-173,Taito Ku,34857.00,6,1
-174,Shibuya Ku,7714.00,2,4
-175,Taito Ku,10929.00,2,1
-176,Taito Ku,10393.00,2,1
-177,Katsushika Ku,10000.00,4,1
-178,Toshima Ku,28114.00,8,2
-179,Taito Ku,12000.00,2,1
-180,Shinjuku Ku,6551.00,1,2
-181,Sumida Ku,13857.00,4,1
-182,Toshima Ku,4943.00,2,1
-183,Toshima Ku,80000.00,4,1
-184,Taito Ku,50000.00,1,1
-185,Shinjuku Ku,26411.00,3,2
-186,Toshima Ku,37000.00,8,1
-187,Meguro Ku,6000.00,1,30
-188,Shinjuku Ku,14957.00,6,1
-189,Taito Ku,7125.00,2,1
-190,Shinjuku Ku,16714.00,4,1
-191,Shinjuku Ku,12857.00,4,1
-192,Taito Ku,44213.00,5,1
-193,Setagaya Ku,3852.00,2,2
-194,Shinjuku Ku,13000.00,3,1
-195,Shinjuku Ku,16698.00,2,1
-196,Minato Ku,15743.00,2,2
-197,Setagaya Ku,18000.00,2,1
-198,Sumida Ku,9357.00,2,1
-199,Katsushika Ku,7243.00,3,1
-200,Shibuya Ku,80000.00,10,2
-201,Shinjuku Ku,16307.00,4,2
-202,Nakano Ku,33571.00,6,6
-203,Ota Ku,6193.00,2,2
-204,Toshima Ku,18178.00,4,1
-205,Katsushika Ku,37829.00,10,1
-206,Sumida Ku,18000.00,2,1
-207,Shinjuku Ku,7793.00,3,2
-208,Shinjuku Ku,22663.00,2,1
-209,Arakawa Ku,7500.00,4,1
-210,Setagaya Ku,7143.00,1,1
-211,Shibuya Ku,32786.00,5,1
-212,Bunkyo Ku,15414.00,2,1
-213,Sumida Ku,13029.00,4,1
-214,Minato Ku,20429.00,4,1
-215,Chiyoda Ku,14909.00,2,1
-216,Shinjuku Ku,74000.00,9,2
-217,Toshima Ku,9414.00,2,2
-218,Taito Ku,10629.00,2,1
-219,Itabashi Ku,13419.00,2,2
-220,Taito Ku,29829.00,4,2
-221,Taito Ku,8600.00,3,2
-222,Setagaya Ku,19241.00,4,1
-223,Adachi Ku,8500.00,2,1
-224,Sumida Ku,6900.00,2,2
-225,Koganei Shi,16500.00,3,1
-226,Taito Ku,6375.00,3,2
-227,Taito Ku,15994.00,6,1
-228,Shinjuku Ku,16500.00,6,1
-229,Shinjuku Ku,21086.00,6,2
-230,Kita Ku,14129.00,2,1
-231,Toshima Ku,9857.00,2,1
-232,Taito Ku,8600.00,3,2
-233,Shinagawa Ku,6257.00,2,1
-234,Shinjuku Ku,75429.00,5,1
-235,Taito Ku,15500.00,2,1
-236,Shibuya Ku,4400.00,2,1
-237,Sumida Ku,5857.00,2,4
-238,Toshima Ku,2780.00,1,1
-239,Shinjuku Ku,23873.00,3,2
-240,Sumida Ku,16800.00,4,1
-241,Shinjuku Ku,17150.00,3,1
-242,Taito Ku,27297.00,6,1
-243,Taito Ku,30000.00,6,2
-244,Shinjuku Ku,42571.00,14,2
-245,Katsushika Ku,27806.00,16,2
-246,Sumida Ku,9829.00,4,2
-247,Toshima Ku,7714.00,2,3
-248,Shinjuku Ku,24286.00,5,2
-249,Sumida Ku,13929.00,6,1
-250,Shinjuku Ku,8000.00,2,1
-251,Shinjuku Ku,33643.00,4,1
-252,Shinagawa Ku,19143.00,2,1
-253,Koto Ku,9514.00,3,2
-254,Toshima Ku,30704.00,10,1
-255,Shinagawa Ku,31097.00,8,2
-256,Sumida Ku,24000.00,6,2
-257,Kita Ku,12414.00,4,1
-258,Setagaya Ku,52029.00,2,1
-259,Sumida Ku,20000.00,5,1
-260,Shibuya Ku,15381.00,2,1
-261,Toshima Ku,8429.00,2,1
-262,Taito Ku,11164.00,2,1
-263,Taito Ku,17146.00,2,1
-264,Nakano Ku,9929.00,4,1
-265,Setagaya Ku,20000.00,5,2
-266,Katsushika Ku,32943.00,7,1
-267,Setagaya Ku,5500.00,1,2
-268,Sumida Ku,12009.00,4,2
-269,Sumida Ku,15786.00,7,1
-270,Shinjuku Ku,10229.00,2,1
-271,Minato Ku,13229.00,4,2
-272,Shinjuku Ku,31429.00,6,2
-273,Shinjuku Ku,13016.00,2,5
-274,Shinagawa Ku,16000.00,4,2
-275,Meguro Ku,6857.00,2,1
-276,Kita Ku,33800.00,10,1
-277,Shinjuku Ku,15673.00,3,1
-278,Arakawa Ku,13836.00,2,2
-279,Sumida Ku,8986.00,2,2
-280,Shinjuku Ku,18000.00,3,1
-281,Kunitachi Shi,3929.00,1,1
-282,Edogawa Ku,6500.00,2,1
-283,Toshima Ku,13994.00,2,1
-284,Nerima Ku,8251.00,3,1
-285,Edogawa Ku,37714.00,6,1
-286,Arakawa Ku,8113.00,2,1
-287,Setagaya Ku,7691.00,4,29
-288,Shibuya Ku,50000.00,3,2
-289,Sumida Ku,35990.00,8,2
-290,Edogawa Ku,7064.00,4,1
-291,Taito Ku,5500.00,1,1
-292,Ota Ku,69296.00,16,1
-293,Taito Ku,12837.00,4,1
-294,Suginami Ku,4000.00,3,3
-295,Shinjuku Ku,28214.00,3,2
-296,Koto Ku,7654.00,2,2
-297,Sumida Ku,5700.00,2,1
-298,Shinjuku Ku,23757.00,2,1
-299,Suginami Ku,43571.00,6,3
-300,Shibuya Ku,26900.00,3,1
-301,Shibuya Ku,36000.00,10,1
-302,Shibuya Ku,21086.00,2,1
-303,Nakano Ku,9000.00,3,1
-304,Shinjuku Ku,35000.00,6,1
-305,Koto Ku,13286.00,6,1
-306,Shinjuku Ku,10471.00,2,1
-307,Koganei Shi,13000.00,4,2
-308,Taito Ku,34700.00,6,1
-309,Ota Ku,14000.00,4,2
-310,Toshima Ku,16057.00,4,1
-311,Sumida Ku,35990.00,8,2
-312,Sumida Ku,9357.00,3,1
-313,Taito Ku,13714.00,6,1
-314,Nerima Ku,10091.00,2,3
-315,Suginami Ku,14000.00,4,2
-316,Shinjuku Ku,9571.00,3,1
-317,Taito Ku,123000.00,16,2
-318,Shinjuku Ku,12434.00,2,1
-319,Sumida Ku,18857.00,8,1
-320,Chiyoda Ku,30804.00,8,1
-321,Nakano Ku,9000.00,3,1
-322,Sumida Ku,12214.00,3,2
-323,Meguro Ku,73929.00,15,2
-324,Katsushika Ku,28258.00,13,2
-325,Shinjuku Ku,5429.00,2,1
-326,Shinjuku Ku,10214.00,3,1
-327,Shinjuku Ku,17800.00,5,2
-328,Toshima Ku,5355.00,2,2
-329,Shinjuku Ku,7000.00,4,30
-330,Sumida Ku,5600.00,2,1
-331,Toshima Ku,22486.00,7,5
-332,Toshima Ku,11346.00,4,2
-333,Shinagawa Ku,3000.00,4,1
-334,Bunkyo Ku,7504.00,2,2
-335,Koto Ku,9611.00,3,1
-336,Nakano Ku,17429.00,4,2
-337,Koto Ku,10571.00,3,1
-338,Suginami Ku,12650.00,3,2
-339,Toshima Ku,14400.00,6,1
-340,Shinjuku Ku,26143.00,5,1
-341,Ota Ku,25000.00,6,2
-342,Nakano Ku,7357.00,1,5
-343,Taito Ku,11057.00,2,1
-344,Shibuya Ku,20000.00,2,2
-345,Arakawa Ku,50953.00,12,1
-346,Shinjuku Ku,11714.00,2,2
-347,Edogawa Ku,40366.00,9,1
-348,Shinjuku Ku,15286.00,2,2
-349,Toshima Ku,15000.00,6,2
-350,Suginami Ku,17086.00,2,3
-351,Shinagawa Ku,36000.00,8,2
-352,Shinjuku Ku,13471.00,3,3
-353,Kita Ku,17086.00,6,1
-354,Toshima Ku,7500.00,2,1
-355,Adachi Ku,7000.00,2,1
-356,Koto Ku,7973.00,2,2
-357,Shinjuku Ku,10504.00,2,1
-358,Edogawa Ku,3250.00,3,1
-359,Shinjuku Ku,23873.00,3,2
-360,Shinjuku Ku,13159.00,2,1
-361,Taito Ku,65057.00,4,1
-362,Minato Ku,135594.00,15,4
-363,Sumida Ku,15000.00,10,1
-364,Taito Ku,16171.00,2,1
-365,Ota Ku,15286.00,6,3
-366,Taito Ku,15231.00,2,1
-367,Sumida Ku,18571.00,4,1
-368,Toshima Ku,8051.00,3,2
-369,Suginami Ku,8829.00,2,2
-370,Suginami Ku,15429.00,5,2
-371,Chiyoda Ku,20429.00,3,1
-372,Shinjuku Ku,14000.00,2,1
-373,Adachi Ku,6000.00,3,2
-374,Shibuya Ku,6314.00,2,2
-375,Setagaya Ku,7944.00,3,29
-376,Taito Ku,14000.00,3,2
-377,Shinjuku Ku,25000.00,3,31
-378,Toshima Ku,16000.00,5,3
-379,Shinjuku Ku,23873.00,3,2
-380,Sumida Ku,2543.00,1,1
-381,Sumida Ku,7869.00,3,2
-382,Suginami Ku,33000.00,10,3
-383,Taito Ku,33326.00,6,1
-384,Itabashi Ku,18500.00,3,3
-385,Shinjuku Ku,13371.00,2,2
-386,Ota Ku,4500.00,2,30
-387,Suginami Ku,15786.00,3,3
-388,Minato Ku,12799.00,2,2
-389,Kita Ku,31143.00,5,3
-390,Shinjuku Ku,9811.00,2,1
-391,Toshima Ku,11214.00,3,2
-392,Shinjuku Ku,15666.00,4,1
-393,Sumida Ku,13060.00,5,1
-394,Chuo Ku,14143.00,2,1
-395,Sumida Ku,7143.00,1,2
-396,Toshima Ku,26771.00,8,6
-397,Shinjuku Ku,11671.00,2,1
-398,Bunkyo Ku,38714.00,7,2
-399,Katsushika Ku,21905.00,5,1
-400,Taito Ku,24976.00,2,1
-401,Bunkyo Ku,8143.00,2,2
-402,Katsushika Ku,7514.00,2,1
-403,Sumida Ku,6000.00,4,1
-404,Shinjuku Ku,25000.00,3,31
-405,Taito Ku,24229.00,12,1
-406,Edogawa Ku,13286.00,2,1
-407,Adachi Ku,5182.00,2,2
-408,Ota Ku,6193.00,2,2
-409,Suginami Ku,58143.00,16,2
-410,Koganei Shi,5500.00,1,1
-411,Nakano Ku,10013.00,2,1
-412,Shinjuku Ku,11469.00,2,1
-413,Setagaya Ku,17143.00,1,2
-414,Chiyoda Ku,33357.00,10,2
-415,Shinjuku Ku,13191.00,4,2
-416,Shinjuku Ku,23873.00,3,2
-417,Shinjuku Ku,11469.00,2,1
-418,Shinjuku Ku,7829.00,3,1
-419,Taito Ku,10314.00,3,2
-420,Shinjuku Ku,15857.00,2,1
-421,Taito Ku,40000.00,16,3
-422,Sumida Ku,8971.00,2,2
-423,Sumida Ku,7274.00,11,1
-424,Bunkyo Ku,12514.00,2,2
-425,Taito Ku,11714.00,2,1
-426,Toshima Ku,8650.00,2,2
-427,Toshima Ku,37142.00,8,1
-428,Shinjuku Ku,8063.00,3,2
-429,Shinjuku Ku,37419.00,16,2
-430,Toshima Ku,6929.00,3,2
-431,Shinjuku Ku,19514.00,4,1
-432,Koto Ku,15268.00,6,2
-433,Sumida Ku,8913.00,3,2
-434,Bunkyo Ku,13991.00,2,1
-435,Arakawa Ku,6143.00,2,1
-436,Taito Ku,12457.00,4,2
-437,Taito Ku,77786.00,4,1
-438,Shinjuku Ku,8857.00,2,1
-439,Shibuya Ku,20000.00,2,3
-440,Arakawa Ku,19142.00,6,1
-441,Shinjuku Ku,16071.00,5,1
-442,Kita Ku,11319.00,1,1
-443,Edogawa Ku,1500.00,3,30
-444,Shibuya Ku,14000.00,2,1
-445,Suginami Ku,16914.00,2,1
-446,Minato Ku,15443.00,3,1
-447,Suginami Ku,6793.00,3,1
-448,Shibuya Ku,41429.00,6,1
-449,Shinjuku Ku,17484.00,2,1
-450,Bunkyo Ku,28497.00,4,1
-451,Sumida Ku,7869.00,3,2
-452,Taito Ku,46506.00,10,1
-453,Shinjuku Ku,19143.00,6,1
-454,Taito Ku,50000.00,1,1
-455,Bunkyo Ku,17694.00,3,1
-456,Nakano Ku,4500.00,1,2
-457,Shibuya Ku,4280.00,2,1
-458,Sumida Ku,5950.00,2,2
-459,Taito Ku,9771.00,2,1
-460,Shinjuku Ku,60000.00,4,2
-461,Kita Ku,14286.00,4,3
-462,Sumida Ku,7094.00,3,2
-463,Bunkyo Ku,8143.00,2,2
-464,Shinjuku Ku,14874.00,6,2
-465,Nakano Ku,7280.00,2,2
-466,Shibuya Ku,35429.00,6,1
-467,Suginami Ku,3957.00,3,1
-468,Sumida Ku,17914.00,2,1
-469,Sumida Ku,3500.00,2,1
-470,Shibuya Ku,23571.00,5,2
-471,Taito Ku,6312.00,2,2
-472,Toshima Ku,9989.00,6,2
-473,Kita Ku,17143.00,4,2
-474,Taito Ku,20829.00,8,2
-475,Setagaya Ku,14000.00,4,1
-476,Shinjuku Ku,11646.00,2,1
-477,Chiyoda Ku,773344.00,2,1
-478,Setagaya Ku,7532.00,2,2
-479,Shinjuku Ku,12411.00,2,1
-480,Taito Ku,16966.00,6,2
-481,Katsushika Ku,12729.00,3,1
-482,Chuo Ku,36800.00,3,2
-483,Ota Ku,7457.00,5,1
-484,Setagaya Ku,25000.00,4,4
-485,Shibuya Ku,14122.00,5,2
-486,Taito Ku,50000.00,1,1
-487,Arakawa Ku,8810.00,2,1
-488,Sumida Ku,20371.00,2,1
-489,Ota Ku,24449.00,6,3
-490,Toshima Ku,5845.00,3,1
-491,Taito Ku,17857.00,4,1
-492,Shinjuku Ku,15286.00,4,5
-493,Sumida Ku,2514.00,1,1
-494,Koto Ku,20343.00,4,1
-495,Shinjuku Ku,15286.00,3,2
-496,Taito Ku,50000.00,1,1
-497,Sumida Ku,6000.00,8,1
-498,Katsushika Ku,8286.00,2,1
-499,Musashimurayama Shi,3500.00,3,1
+user_id,airbnb_id,review_scores_rating,bedrooms,beds,bathrooms,region,price,accommodates,minimum_nights
+0,4361,4.57,1.0,2.0,1 bath,Shinjuku Ku,16714.00,4,1
+1,3406,nan,1.0,1.0,1 bath,Toshima Ku,8411.00,2,1
+2,6897,4.73,1.0,2.0,1 bath,Sumida Ku,10371.00,3,2
+3,2305,4.82,nan,4.0,1 private bath,Taito Ku,12900.00,6,2
+4,6475,nan,1.0,1.0,1 bath,Shinjuku Ku,8804.00,2,2
+5,6897,4.64,1.0,1.0,1 bath,Chiyoda Ku,13714.00,3,1
+6,5242,4.92,3.0,2.0,1 private bath,Chuo Ku,63964.00,9,3
+7,1966,4.25,1.0,2.0,1 private bath,Shinjuku Ku,9062.00,2,1
+8,6036,4.63,1.0,1.0,1 bath,Taito Ku,50000.00,1,1
+9,10538,4.97,3.0,4.0,1 bath,Shinjuku Ku,38000.00,7,2
+10,4002,4.71,2.0,4.0,1 bath,Taito Ku,24800.00,4,1
+11,415,4.5,nan,2.0,1 bath,Setagaya Ku,6902.00,2,2
+12,5409,4.41,nan,nan,1.5 baths,Arakawa Ku,7586.00,2,1
+13,2190,4.65,1.0,2.0,1 bath,Shinjuku Ku,34085.00,4,2
+14,7306,4.69,2.0,4.0,1 bath,Taito Ku,24229.00,4,1
+15,4696,4.36,1.0,5.0,1 bath,Shinjuku Ku,18000.00,8,1
+16,11141,4.74,nan,1.0,1.5 shared baths,Toshima Ku,4569.00,1,1
+17,5698,4.51,4.0,5.0,2 baths,Shinjuku Ku,52517.00,10,1
+18,10905,4.29,1.0,2.0,1 bath,Taito Ku,8286.00,2,1
+19,1087,4.89,1.0,1.0,1 private bath,Arakawa Ku,11836.00,2,2
+20,2758,nan,1.0,1.0,1 private bath,Taito Ku,14314.00,2,1
+21,2758,4.53,1.0,1.0,1 bath,Sumida Ku,7914.00,3,2
+22,468,4.5,1.0,1.0,3 shared baths,Koto Ku,24357.00,2,1
+23,1027,4.8,nan,2.0,1 shared bath,Shibuya Ku,49800.00,3,1
+24,9155,4.89,1.0,4.0,1 bath,Taito Ku,14143.00,4,2
+25,3592,4.71,1.0,3.0,1 bath,Ota Ku,14349.00,6,2
+26,2179,nan,nan,5.0,2.5 shared baths,Sumida Ku,70000.00,6,1
+27,8448,4.5,1.0,1.0,1 bath,Shinjuku Ku,7500.00,2,4
+28,8168,4.16,2.0,3.0,1.5 baths,Shibuya Ku,30629.00,4,1
+29,4482,5.0,3.0,9.0,2 baths,Bunkyo Ku,35800.00,13,2
+30,10821,4.71,1.0,3.0,1 bath,Chiyoda Ku,18571.00,4,1
+31,8335,nan,1.0,1.0,1.5 baths,Shibuya Ku,17857.00,5,5
+32,3355,4.85,3.0,5.0,2 baths,Taito Ku,47368.00,10,2
+33,3355,5.0,1.0,1.0,1 bath,Nerima Ku,11943.00,2,2
+34,4040,4.75,1.0,3.0,0 baths,Taito Ku,15411.00,3,1
+35,5914,4.75,1.0,3.0,1 bath,Shinjuku Ku,8050.00,3,1
+36,3406,4.55,1.0,3.0,1 private bath,Taito Ku,12233.00,6,1
+37,9809,4.43,1.0,1.0,1 bath,Shinjuku Ku,23873.00,3,2
+38,5409,4.77,3.0,4.0,1 bath,Toshima Ku,21600.00,10,2
+39,4855,4.95,1.0,1.0,1 private bath,Arakawa Ku,12000.00,2,1
+40,11076,5.0,1.0,1.0,Half-bath,Shibuya Ku,17071.00,2,1
+41,1857,4.89,2.0,2.0,1 bath,Taito Ku,35000.00,7,1
+42,11103,4.96,1.0,2.0,1 bath,Ota Ku,12000.00,4,2
+43,11076,4.43,1.0,2.0,1 bath,Toshima Ku,7200.00,2,1
+44,6193,4.86,2.0,2.0,2 baths,Shinjuku Ku,33643.00,4,1
+45,7959,4.8,1.0,1.0,1 bath,Shinjuku Ku,16714.00,2,1
+46,1027,nan,1.0,1.0,1 bath,Shinjuku Ku,13728.00,5,3
+47,8730,4.5,1.0,2.0,1 bath,Shibuya Ku,9000.00,2,4
+48,7819,nan,5.0,15.0,5.5 baths,Taito Ku,144000.00,16,1
+49,7306,4.81,1.0,3.0,1 bath,Ota Ku,19657.00,6,2
+50,10926,4.75,1.0,nan,1 shared bath,Kita Ku,6414.00,3,1
+51,3592,4.0,2.0,3.0,1 bath,Arakawa Ku,22400.00,6,1
+52,8335,4.46,2.0,nan,1 bath,Suginami Ku,13714.00,6,3
+53,5914,4.69,1.0,2.0,1 bath,Hino Shi,4286.00,3,1
+54,6909,4.76,1.0,2.0,1 bath,Toshima Ku,10989.00,3,2
+55,7819,4.63,nan,nan,1.5 baths,Sumida Ku,14143.00,4,2
+56,9136,nan,1.0,1.0,1 bath,Sumida Ku,5566.00,2,2
+57,468,4.13,1.0,2.0,1 bath,Shibuya Ku,30714.00,6,1
+58,4270,4.0,1.0,2.0,1 bath,Toshima Ku,12023.00,3,2
+59,10905,4.0,3.0,3.0,2 baths,Shinjuku Ku,39514.00,7,2
+60,2838,5.0,3.0,5.0,2 baths,Shibuya Ku,49714.00,8,2
+61,8448,4.33,nan,2.0,2 shared baths,Itabashi Ku,4088.00,2,1
+62,6475,4.0,4.0,7.0,1 bath,Toshima Ku,28800.00,12,2
+63,9962,4.57,1.0,1.0,1 bath,Shinjuku Ku,23873.00,3,2
+64,7306,4.4,1.0,1.0,5.5 shared baths,Nakano Ku,10013.00,2,1
+65,8448,4.82,1.0,3.0,1 bath,Shibuya Ku,25143.00,4,2
+66,4486,4.73,1.0,2.0,1 private bath,Toshima Ku,13614.00,3,1
+67,6331,4.83,1.0,4.0,1 bath,Sumida Ku,12350.00,4,3
+68,4486,4.8,1.0,2.0,1 bath,Shinjuku Ku,14914.00,3,2
+69,5866,5.0,3.0,3.0,1 bath,Taito Ku,44114.00,7,2
+70,3959,nan,1.0,1.0,1 bath,Shinjuku Ku,7500.00,2,30
+71,4361,4.83,2.0,8.0,2 baths,Arakawa Ku,46429.00,8,1
+72,7819,5.0,1.0,1.0,1 private bath,Sumida Ku,13514.00,2,1
+73,2190,5.0,4.0,5.0,2 baths,Shinjuku Ku,56429.00,13,2
+74,5866,4.47,1.0,3.0,1 bath,Kita Ku,13636.00,5,1
+75,2485,4.75,1.0,1.0,1 bath,Minato Ku,18000.00,2,2
+76,2374,4.73,1.0,4.0,1 bath,Shibuya Ku,25571.00,4,2
+77,5631,4.25,1.0,1.0,1 bath,Taito Ku,7000.00,2,1
+78,5698,4.71,1.0,2.0,1 bath,Suginami Ku,8357.00,3,3
+79,2179,4.8,2.0,6.0,2 baths,Shinjuku Ku,56393.00,12,1
+80,4002,4.88,1.0,1.0,1 bath,Chuo Ku,25345.00,2,1
+81,7306,5.0,2.0,7.0,3 baths,Sumida Ku,29714.00,7,1
+82,7819,4.86,1.0,2.0,1 private bath,Suginami Ku,16457.00,2,1
+83,1422,3.67,1.0,2.0,1 bath,Arakawa Ku,8113.00,2,1
+84,5762,4.6,1.0,2.0,1 bath,Shinjuku Ku,9557.00,3,1
+85,6875,4.65,2.0,2.0,1.5 baths,Shinjuku Ku,10571.00,2,2
+86,7733,4.6,nan,2.0,1 bath,Shinjuku Ku,18214.00,4,1
+87,2151,4.7,2.0,4.0,1 bath,Toshima Ku,15314.00,7,2
+88,1905,4.4,1.0,1.0,1 bath,Shinjuku Ku,26411.00,3,2
+89,7733,4.74,nan,1.0,1 private bath,Minato Ku,50000.00,2,1
+90,9962,3.5,1.0,1.0,1 bath,Shinagawa Ku,22768.00,2,1
+91,6475,4.9,3.0,6.0,3 baths,Toshima Ku,30000.00,11,3
+92,9092,4.6,nan,1.0,4 baths,Adachi Ku,5496.00,2,1
+93,4361,4.73,1.0,1.0,1 bath,Shibuya Ku,12374.00,3,2
+94,1430,4.86,1.0,nan,1 bath,Itabashi Ku,15000.00,4,1
+95,7314,4.75,1.0,2.0,1 bath,Sumida Ku,7757.00,3,2
+96,11103,4.68,1.0,2.0,1 private bath,Taito Ku,11257.00,2,1
+97,5914,4.25,2.0,nan,1 bath,Sumida Ku,18257.00,4,1
+98,7733,4.91,2.0,2.0,2 shared baths,Shinjuku Ku,6771.00,2,1
+99,1576,4.57,1.0,1.0,1 bath,Shinjuku Ku,30175.00,3,2
+100,2265,4.43,nan,2.0,2 shared baths,Ota Ku,11586.00,3,2
+101,2115,4.8,1.0,nan,1.5 baths,Shinjuku Ku,19143.00,4,1
+102,3406,4.42,1.0,1.0,1 bath,Adachi Ku,14976.00,2,2
+103,9136,4.13,1.0,4.0,1 bath,Chiyoda Ku,12626.00,4,1
+104,6897,nan,1.0,1.0,1 bath,Taito Ku,50000.00,1,1
+105,10854,4.3,nan,1.0,1 shared bath,Sumida Ku,4100.00,2,1
+106,1430,5.0,1.0,2.0,1 bath,Shinjuku Ku,8172.00,3,2
+107,5631,4.3,nan,1.0,1 shared bath,Koto Ku,2268.00,1,1
+108,4482,4.9,nan,2.0,1 shared bath,Arakawa Ku,11800.00,4,2
+109,7310,5.0,1.0,2.0,1 private bath,Taito Ku,8600.00,3,2
+110,3592,4.65,1.0,3.0,1.5 baths,Chuo Ku,32714.00,4,1
+111,11141,nan,1.0,1.0,1 private bath,Taito Ku,20036.00,2,1
+112,1027,5.0,3.0,6.0,1 bath,Taito Ku,19781.00,6,3
+113,5622,4.75,3.0,8.0,2 baths,Toshima Ku,20000.00,10,1
+114,8307,4.57,1.0,2.0,1 bath,Toshima Ku,9414.00,3,2
+115,6193,4.77,1.0,2.0,1 bath,Toshima Ku,10357.00,3,2
+116,6398,5.0,5.0,nan,1 bath,Ota Ku,13200.00,10,3
+117,3592,nan,1.0,1.0,1 shared bath,Shinjuku Ku,14286.00,2,1
+118,9290,4.79,1.0,2.0,1 bath,Shinjuku Ku,18429.00,3,2
+119,9600,5.0,1.0,2.0,1 bath,Minato Ku,10382.00,3,2
+120,2838,4.78,4.0,5.0,1.5 baths,Toshima Ku,23155.00,10,1
+121,6398,5.0,nan,2.0,3.5 baths,Arakawa Ku,28435.00,12,2
+122,7128,5.0,2.0,4.0,nan,Taito Ku,33500.00,6,2
+123,2305,4.97,nan,nan,1 shared bath,Machida Shi,3643.00,3,1
+124,7959,4.69,nan,3.0,1 private bath,Koto Ku,9111.00,4,1
+125,10239,4.67,1.0,2.0,1.5 baths,Shinjuku Ku,13626.00,4,1
+126,2709,4.72,1.0,1.0,1 bath,Toshima Ku,6314.00,2,2
+127,1966,4.5,1.0,1.0,1 bath,Shinjuku Ku,30685.00,3,2
+128,9809,5.0,1.0,2.0,1 bath,Shinjuku Ku,20000.00,4,1
+129,6909,4.46,2.0,4.0,1 bath,Shinjuku Ku,23929.00,6,1
+130,9136,5.0,1.0,1.0,1 bath,Taito Ku,50000.00,1,1
+131,1905,5.0,1.0,2.0,1 shared bath,Shinjuku Ku,31395.00,4,1
+132,5153,4.75,1.0,nan,1 bath,Katsushika Ku,7514.00,2,1
+133,2265,4.47,nan,1.0,1.5 shared baths,Toshima Ku,6171.00,2,2
+134,9092,4.61,2.0,4.0,2 baths,Toshima Ku,21086.00,6,4
+135,5409,4.4,1.0,1.0,1 private bath,Setagaya Ku,19714.00,2,1
+136,468,5.0,1.0,2.0,1 bath,Sumida Ku,8158.00,3,2
+137,5914,4.82,2.0,8.0,3 baths,Arakawa Ku,28000.00,16,2
+138,6807,5.0,1.0,1.0,Half-bath,Shinjuku Ku,8000.00,2,1
+139,2052,nan,1.0,1.0,1 private bath,Taito Ku,18111.00,2,1
+140,8235,4.47,1.0,1.0,1 bath,Shinjuku Ku,3714.00,1,1
+141,5409,4.5,1.0,2.0,1 bath,Shinjuku Ku,43300.00,3,1
+142,629,nan,1.0,4.0,1.5 baths,Shinagawa Ku,16786.00,7,2
+143,8307,5.0,3.0,3.0,1 bath,Machida Shi,10000.00,3,1
+144,5242,4.71,nan,1.0,2 shared baths,Sumida Ku,2500.00,1,2
+145,10239,4.77,1.0,2.0,1 bath,Minato Ku,15443.00,3,1
+146,5153,nan,1.0,2.0,1 bath,Sumida Ku,7094.00,3,2
+147,6875,4.94,1.0,nan,1 bath,Minato Ku,42885.00,4,2
+148,10905,nan,4.0,4.0,3 baths,Shinjuku Ku,78600.00,12,2
+149,10854,nan,1.0,1.0,1 bath,Taito Ku,50000.00,1,1
+150,2709,4.44,5.0,5.0,3 baths,Sumida Ku,35086.00,12,2
+151,5675,3.0,nan,1.0,4 shared baths,Taito Ku,3771.00,1,1
+152,1679,5.0,1.0,1.0,1 bath,Shibuya Ku,13500.00,2,30
+153,4482,4.55,1.0,nan,1 bath,Toshima Ku,12371.00,4,1
+154,10252,4.63,1.0,2.0,1.5 baths,Toshima Ku,10114.00,4,5
+155,5631,nan,2.0,4.0,1 bath,Sumida Ku,14400.00,8,20
+156,1087,4.5,1.0,1.0,1 shared bath,Sumida Ku,3000.00,2,1
+157,1905,3.0,1.0,2.0,1.5 shared baths,Taito Ku,15229.00,4,1
+158,6872,5.0,nan,1.0,2 shared baths,Itabashi Ku,3503.00,1,1
+159,7733,4.89,1.0,4.0,1 bath,Shibuya Ku,13800.00,4,1
+160,6032,4.71,1.0,2.0,1 bath,Shinjuku Ku,13500.00,3,2
+161,1857,4.83,1.0,4.0,1 shared bath,Itabashi Ku,7700.00,4,2
+162,2337,4.94,3.0,4.0,1 bath,Shinjuku Ku,25800.00,5,2
+163,5675,4.55,1.0,1.0,7 baths,Chuo Ku,5786.00,1,1
+164,7128,4.5,1.0,1.0,1 bath,Taito Ku,18000.00,2,1
+165,8307,4.78,nan,1.0,1 bath,Sumida Ku,13000.00,2,2
+166,5622,4.09,2.0,2.0,1.5 baths,Shinjuku Ku,37893.00,6,2
+167,5052,4.85,1.0,5.0,1 bath,Ota Ku,15449.00,6,1
+168,6026,4.7,nan,nan,1 bath,Setagaya Ku,6800.00,1,2
+169,2709,nan,1.0,2.0,1 private bath,Itabashi Ku,12321.00,3,2
+170,5762,3.25,1.0,2.0,1 bath,Kita Ku,8143.00,2,3
+171,5622,4.86,2.0,4.0,1 bath,Edogawa Ku,29429.00,5,1
+172,1087,4.57,3.0,5.0,1 bath,Edogawa Ku,40366.00,9,1
+173,8235,nan,1.0,2.0,1 bath,Toshima Ku,13171.00,3,1
+174,8335,nan,1.0,2.0,1 bath,Sumida Ku,20000.00,2,1
+175,4040,nan,1.0,1.0,1 bath,Taito Ku,50000.00,1,1
+176,6032,5.0,1.0,2.0,1 shared bath,Chiyoda Ku,40000.00,2,1
+177,3413,4.5,4.0,1.0,1.5 baths,Shinjuku Ku,61429.00,15,1
+178,7314,1.0,1.0,2.0,1 shared bath,Shinjuku Ku,28286.00,4,1
+179,3892,4.88,2.0,1.0,1 bath,Sumida Ku,15088.00,2,3
+180,6807,nan,nan,1.0,1 bath,Setagaya Ku,999999.00,3,2
+181,5866,4.88,1.0,3.0,1 bath,Shinjuku Ku,5622.00,5,1
+182,4826,nan,1.0,1.0,1 private bath,Taito Ku,21136.00,2,1
+183,5698,4.9,5.0,10.0,2.5 baths,Shinjuku Ku,53714.00,16,2
+184,9600,4.91,1.0,2.0,1 private bath,Shinjuku Ku,9062.00,2,1
+185,10252,4.6,1.0,6.0,1.5 baths,Katsushika Ku,18561.00,10,1
+186,6193,4.81,1.0,2.0,1 bath,Edogawa Ku,6023.00,2,1
+187,9809,4.57,1.0,2.0,1 bath,Arakawa Ku,8113.00,2,1
+188,11076,nan,1.0,3.0,1 bath,Sumida Ku,14079.00,5,2
+189,6026,nan,nan,3.0,1 shared bath,Edogawa Ku,11100.00,6,1
+190,2305,4.89,1.0,3.0,1 bath,Shinjuku Ku,38000.00,4,2
+191,2052,nan,1.0,1.0,1 private bath,Fuchu Shi,3000.00,1,1
+192,7733,4.67,nan,8.0,1 shared bath,Shinjuku Ku,5980.00,8,2
+193,1267,4.0,nan,1.0,1 shared bath,Kita Ku,4571.00,2,1
+194,9290,4.5,1.0,1.0,1 private bath,Taito Ku,10091.00,2,2
+195,10061,4.9,2.0,1.0,2 baths,Sumida Ku,14316.00,6,3
+196,5242,4.8,2.0,5.0,2 baths,Chuo Ku,24000.00,9,1
+197,10442,5.0,1.0,3.0,1 bath,Suginami Ku,4857.00,3,30
+198,6740,5.0,1.0,1.0,1 bath,Taito Ku,13832.00,2,1
+199,2485,4.65,1.0,3.0,1 bath,Shinagawa Ku,15136.00,4,1
+200,10442,4.0,nan,2.0,1.5 shared baths,Sumida Ku,2500.00,1,1
+201,1422,4.85,1.0,2.0,1 bath,Nakano Ku,9857.00,3,1
+202,3355,4.5,1.0,1.0,1 bath,Taito Ku,50000.00,1,1
+203,6026,5.0,2.0,2.0,1 bath,Taito Ku,15779.00,6,1
+204,6036,5.0,3.0,6.0,1.5 baths,Shinjuku Ku,37500.00,8,1
+205,5866,4.64,1.0,2.0,1 bath,Shinjuku Ku,17579.00,3,2
+206,9600,4.83,2.0,3.0,1.5 baths,Ota Ku,19800.00,6,2
+207,7314,4.85,2.0,2.0,2 baths,Shinjuku Ku,17229.00,4,1
+208,6872,nan,1.0,1.0,1 bath,Shinjuku Ku,12956.00,3,3
+209,9092,5.0,1.0,2.0,1 private bath,Minato Ku,18843.00,2,1
+210,4361,4.82,1.0,1.0,1.5 baths,Kita Ku,6528.00,2,1
+211,9155,5.0,nan,1.0,1 bath,Suginami Ku,8847.00,3,3
+212,3959,4.61,1.0,2.0,1 shared bath,Koto Ku,5391.00,4,1
+213,4270,4.64,1.0,1.0,1 bath,Shinjuku Ku,11286.00,2,2
+214,9136,4.25,1.0,4.0,1 bath,Taito Ku,19199.00,4,2
+215,1422,4.82,1.0,nan,1 private bath,Shinjuku Ku,13371.00,2,2
+216,3892,4.58,3.0,4.0,1 bath,Shibuya Ku,36786.00,8,2
+217,4855,nan,nan,2.0,1.5 baths,Shinjuku Ku,16666.00,3,1
+218,4486,5.0,1.0,2.0,1 bath,Shinjuku Ku,8009.00,3,2
+219,6193,4.5,2.0,3.0,1 bath,Toshima Ku,17429.00,4,2
+220,2374,4.75,1.0,3.0,1 bath,Shibuya Ku,24714.00,4,3
+221,1027,4.0,1.0,1.0,1 bath,Shinjuku Ku,23873.00,3,2
+222,5153,4.79,1.0,2.0,1 bath,Sumida Ku,8429.00,4,2
+223,5052,nan,1.0,1.0,1 private bath,Fuchu Shi,5775.00,1,1
+224,7959,4.77,1.0,2.0,1 bath,Shinjuku Ku,20768.00,4,1
+225,2337,5.0,2.0,5.0,1.5 baths,Sumida Ku,15714.00,6,1
+226,6331,4.71,4.0,6.0,1 bath,Koto Ku,39286.00,11,2
+227,1267,4.76,1.0,4.0,1 bath,Sumida Ku,17657.00,5,1
+228,11103,4.68,nan,3.0,1 bath,Shinjuku Ku,46054.00,7,1
+229,415,4.75,4.0,3.0,1 bath,Shinjuku Ku,39286.00,12,1
+230,5622,5.0,1.0,1.0,1 bath,Chuo Ku,19786.00,2,28
+231,10821,4.85,2.0,4.0,1 bath,Shinjuku Ku,56857.00,6,2
+232,2485,4.87,2.0,2.0,2 baths,Minato Ku,98414.00,12,1
+233,8448,nan,3.0,5.0,1 bath,Toshima Ku,16000.00,6,30
+234,7310,4.56,1.0,2.0,1 private bath,Shinjuku Ku,10857.00,2,1
+235,10252,4.62,1.0,1.0,1 bath,Shibuya Ku,7650.00,2,2
+236,4361,nan,1.0,3.0,1.5 baths,Toshima Ku,46093.00,6,4
+237,8730,4.51,1.0,2.0,1 bath,Shinagawa Ku,6857.00,2,1
+238,4696,4.69,4.0,2.0,1 bath,Taito Ku,46429.00,10,1
+239,10239,4.56,1.0,3.0,1 private bath,Shinjuku Ku,13798.00,3,1
+240,415,4.91,1.0,2.0,1 private bath,Nakano Ku,21143.00,3,1
+241,6398,4.8,1.0,4.0,1 bath,Chuo Ku,26138.00,4,1
+242,2838,4.43,1.0,2.0,1 bath,Shibuya Ku,29714.00,3,1
+243,9809,4.48,1.0,1.0,1 bath,Setagaya Ku,15893.00,4,1
+244,10239,4.52,nan,1.0,1 bath,Shinjuku Ku,9714.00,2,1
+245,1576,4.95,2.0,2.0,1 bath,Shinagawa Ku,23000.00,4,1
+246,6032,4.9,5.0,9.0,1.5 baths,Katsushika Ku,38029.00,12,3
+247,3959,5.0,nan,2.0,0 shared baths,Shinjuku Ku,12031.00,2,2
+248,9290,4.77,1.0,2.0,1 bath,Shinjuku Ku,17000.00,4,1
+249,5675,nan,1.0,1.0,1.5 baths,Itabashi Ku,7900.00,2,2
+250,3592,4.0,1.0,1.0,1.5 shared baths,Bunkyo Ku,5086.00,2,1
+251,2265,5.0,1.0,2.0,1 bath,Toshima Ku,13429.00,2,2
+252,6875,4.92,nan,3.0,1 private bath,Ota Ku,13943.00,4,2
+253,2265,4.37,nan,2.0,1 bath,Taito Ku,6139.00,2,2
+254,9600,4.52,1.0,1.0,1 bath,Shinagawa Ku,9518.00,2,1
+255,5762,4.5,1.0,1.0,1 private bath,Shibuya Ku,22207.00,2,1
+256,1576,5.0,1.0,nan,1 bath,Shinjuku Ku,30685.00,3,2
+257,9290,4.83,nan,2.0,2 shared baths,Kokubunji Shi,5846.00,3,1
+258,2190,4.88,2.0,4.0,2 baths,Nakano Ku,55000.00,8,1
+259,4482,5.0,nan,1.0,2 shared baths,Ota Ku,4000.00,1,1
+260,2305,4.92,4.0,5.0,1.5 baths,Toshima Ku,28800.00,15,2
+261,8235,nan,1.0,2.0,1 bath,Suginami Ku,6751.00,3,2
+262,5242,4.25,1.0,5.0,1 bath,Toshima Ku,7857.00,5,2
+263,8307,nan,nan,2.0,1 bath,Setagaya Ku,5683.00,3,2
+264,6872,4.86,1.0,1.0,1.5 baths,Shinjuku Ku,15286.00,2,2
+265,2052,4.98,nan,3.0,2 shared baths,Nishitokyo Shi,4643.00,9,1
+266,10860,4.82,1.0,3.0,1 bath,Toshima Ku,25714.00,5,2
+267,5675,5.0,2.0,2.0,1.5 baths,Shinjuku Ku,105714.00,5,1
+268,6026,4.76,2.0,8.0,1.5 baths,Taito Ku,21000.00,8,3
+269,11141,nan,1.0,1.0,1.5 baths,Toshima Ku,9000.00,3,4
+270,10821,nan,1.0,1.0,1 bath,Taito Ku,50000.00,1,1
+271,1422,4.62,1.0,1.0,1.5 baths,Shinjuku Ku,12123.00,2,2
+272,2709,nan,1.0,1.0,1 bath,Taito Ku,50000.00,1,1
+273,4002,4.0,1.0,3.0,1 bath,Shibuya Ku,3300.00,3,30
+274,2179,4.93,2.0,3.0,1 bath,Toshima Ku,19943.00,8,3
+275,2190,5.0,nan,1.0,1 bath,Shinjuku Ku,6857.00,2,1
+276,629,nan,nan,5.0,1.5 shared baths,Chiyoda Ku,42086.00,8,2
+277,7310,5.0,2.0,1.0,1 bath,Shinjuku Ku,15371.00,4,1
+278,1422,4.98,nan,1.0,1 shared bath,Itabashi Ku,4945.00,1,1
+279,1857,4.43,1.0,1.0,Half-bath,Itabashi Ku,14957.00,3,3
+280,2838,4.67,1.0,2.0,1 bath,Koto Ku,6981.00,2,1
+281,9809,4.68,1.0,2.0,1 bath,Shinjuku Ku,41143.00,4,1
+282,6740,4.67,1.0,4.0,1 bath,Shinjuku Ku,9000.00,4,1
+283,9290,4.8,1.0,nan,1 bath,Sumida Ku,9480.00,4,2
+284,2337,4.64,1.0,1.0,1 bath,Minato Ku,18000.00,2,2
+285,3892,3.67,1.0,1.0,5.5 shared baths,Nakano Ku,9370.00,2,1
+286,10860,4.42,1.0,3.0,1.5 baths,Shinjuku Ku,7863.00,1,1
+287,5866,3.88,nan,nan,Shared half-bath,Taito Ku,5000.00,2,1
+288,2151,4.5,2.0,5.0,1.5 baths,Toshima Ku,23857.00,6,2
+289,6909,4.67,1.0,2.0,1 shared bath,Shinjuku Ku,13593.00,4,1
+290,6036,3.6,1.0,2.0,1 bath,Kita Ku,11471.00,4,1
+291,10061,4.8,1.0,2.0,1 bath,Sumida Ku,12857.00,1,1
+292,838,4.86,1.0,2.0,1 bath,Kokubunji Shi,6233.00,2,1
+293,10821,4.79,2.0,2.0,1 bath,Sumida Ku,13120.00,2,3
+294,1430,4.73,nan,2.0,1 shared bath,Adachi Ku,5510.00,2,2
+295,629,4.74,3.0,7.0,1.5 baths,Taito Ku,30000.00,8,4
+296,2052,4.93,2.0,6.0,1 bath,Edogawa Ku,20000.00,7,1
+297,6909,5.0,1.0,2.0,1 bath,Setagaya Ku,15714.00,4,1
+298,8168,4.47,2.0,4.0,1 bath,Taito Ku,31714.00,8,1
+299,6036,4.56,1.0,2.0,3 shared baths,Sumida Ku,9500.00,2,3
+300,10538,4.86,3.0,8.0,1 bath,Taito Ku,24286.00,8,2
+301,8235,4.88,1.0,1.0,1 shared bath,Koganei Shi,5500.00,1,1
+302,8335,4.65,2.0,4.0,1 bath,Edogawa Ku,27257.00,8,1
+303,2265,4.92,1.0,16.0,Half-bath,Ota Ku,49009.00,16,1
+304,1679,4.32,1.0,2.0,1 bath,Shinjuku Ku,12286.00,5,1
+305,2485,4.81,1.0,4.0,1 private bath,Taito Ku,18018.00,4,2
+306,6897,5.0,nan,1.0,2 shared baths,Sumida Ku,2800.00,1,3
+307,4855,4.0,1.0,2.0,nan,Sumida Ku,4629.00,1,1
+308,2758,4.95,1.0,4.0,1 bath,Koto Ku,18000.00,5,4
+309,8335,4.31,1.0,2.0,1 bath,Shinjuku Ku,7500.00,3,2
+310,1087,5.0,1.0,2.0,1 bath,Minato Ku,13229.00,4,2
+311,7306,5.0,nan,2.0,1.5 shared baths,Sumida Ku,2500.00,1,1
+312,2115,4.94,3.0,3.0,1 bath,Shibuya Ku,17300.00,8,3
+313,1966,4.67,3.0,5.0,3 baths,Kita Ku,31143.00,5,3
+314,10926,5.0,1.0,2.0,1 bath,Shinjuku Ku,7866.00,3,2
+315,9136,4.67,1.0,2.0,1 bath,Sumida Ku,9029.00,3,2
+316,10442,nan,2.0,6.0,2 baths,Shinjuku Ku,35000.00,6,1
+317,1905,5.0,nan,2.0,1 bath,Shibuya Ku,8429.00,2,4
+318,9962,5.0,1.0,3.0,1 shared bath,Koto Ku,15667.00,3,1
+319,6807,4.88,1.0,1.0,1 bath,Shinjuku Ku,13700.00,2,2
+320,7310,4.44,2.0,2.0,1 bath,Edogawa Ku,19429.00,9,1
+321,838,4.62,1.0,1.0,1 bath,Minato Ku,12318.00,2,2
+322,1576,5.0,3.0,6.0,1 bath,Ota Ku,31674.00,9,2
+323,2337,4.79,2.0,4.0,1 bath,Taito Ku,14851.00,5,2
+324,10061,4.93,1.0,2.0,1 bath,Setagaya Ku,23000.00,4,2
+325,1679,4.78,2.0,2.0,1 bath,Nakano Ku,15000.00,4,2
+326,10854,3.75,1.0,2.0,1.5 baths,Shinjuku Ku,18886.00,4,2
+327,1857,5.0,3.0,4.0,1 bath,Sumida Ku,34186.00,12,2
+328,1267,4.8,1.0,1.0,1 bath,Shinjuku Ku,23873.00,3,2
+329,2682,4.77,1.0,1.0,1.5 baths,Edogawa Ku,12229.00,2,3
+330,4040,nan,1.0,2.0,1 bath,Shinjuku Ku,13371.00,6,1
+331,1576,4.0,1.0,4.0,1 bath,Taito Ku,19199.00,4,2
+332,1679,4.77,1.0,2.0,1 bath,Shinjuku Ku,13757.00,3,1
+333,6740,nan,1.0,2.0,1 bath,Katsushika Ku,5346.00,3,1
+334,2115,nan,1.0,1.0,1 private bath,Chuo Ku,36914.00,2,1
+335,5762,4.82,2.0,2.0,1 bath,Koto Ku,15268.00,6,2
+336,6193,4.34,2.0,2.0,1 bath,Shinjuku Ku,31429.00,4,1
+337,8168,4.81,6.0,9.0,2 baths,Shinjuku Ku,60000.00,16,1
+338,2151,4.54,nan,1.0,1 bath,Shinjuku Ku,8610.00,2,1
+339,6032,4.91,1.0,6.0,1 private bath,Shinjuku Ku,44910.00,8,1
+340,9600,nan,nan,1.0,1 bath,Adachi Ku,6000.00,2,2
+341,11141,nan,1.0,1.0,1 bath,Toshima Ku,10571.00,4,1
+342,8307,4.84,2.0,5.0,1.5 baths,Shinjuku Ku,23071.00,7,2
+343,1027,4.67,2.0,3.0,1.5 baths,Nakano Ku,11508.00,4,1
+344,6475,nan,3.0,5.0,3 baths,Taito Ku,46506.00,10,1
+345,10926,4.59,1.0,1.0,1 bath,Setagaya Ku,6902.00,2,2
+346,9155,4.55,1.0,2.0,1 bath,Sumida Ku,12557.00,4,1
+347,10854,5.0,3.0,5.0,1.5 baths,Nakano Ku,50000.00,14,2
+348,6036,nan,1.0,1.0,1 shared bath,Taito Ku,24976.00,2,1
+349,3413,4.77,1.0,nan,1 bath,Nakano Ku,7943.00,2,2
+350,9962,5.0,3.0,6.0,1 bath,Katsushika Ku,22714.00,6,2
+351,5622,4.43,1.0,1.0,1.5 baths,Sumida Ku,7088.00,3,1
+352,2179,4.64,1.0,1.0,3 shared baths,Sumida Ku,5857.00,2,3
+353,10860,5.0,nan,1.0,1 private bath,Ota Ku,7571.00,3,2
+354,4002,5.0,1.0,nan,1 bath,Katsushika Ku,17714.00,8,1
+355,629,5.0,1.0,1.0,1 bath,Katsushika Ku,6157.00,1,1
+356,2374,4.44,1.0,2.0,1 private bath,Taito Ku,9054.00,2,2
+357,6875,nan,1.0,1.0,0 shared baths,Taito Ku,6200.00,1,1
+358,1267,4.81,3.0,3.0,2 baths,Shinjuku Ku,22800.00,8,1
+359,2190,4.67,3.0,6.0,3 baths,Toshima Ku,38571.00,8,2
+360,10538,4.5,1.0,nan,Half-bath,Taito Ku,16950.00,3,1
+361,7314,2.0,1.0,1.0,1 bath,Bunkyo Ku,28143.00,2,1
+362,11103,4.88,1.0,5.0,1.5 baths,Suginami Ku,18571.00,7,1
+363,8730,5.0,nan,1.0,1 bath,Shibuya Ku,18057.00,3,2
+364,4040,4.94,2.0,4.0,1 private bath,Chiyoda Ku,18000.00,4,1
+365,3413,4.67,1.0,6.0,1 bath,Shinjuku Ku,500000.00,6,120
+366,8448,4.76,2.0,nan,1 private bath,Shinjuku Ku,29371.00,6,1
+367,7314,4.64,nan,2.0,1 bath,Taito Ku,22114.00,4,1
+368,4826,4.77,1.0,1.0,1.5 baths,Shinjuku Ku,17857.00,2,2
+369,2838,4.49,1.0,3.0,1 bath,Sumida Ku,8807.00,3,1
+370,5631,4.76,1.0,1.0,1 bath,Koto Ku,9514.00,3,2
+371,2682,nan,nan,6.0,1 shared bath,Hachioji Shi,50000.00,15,1
+372,7959,4.54,1.0,2.0,1.5 baths,Toshima Ku,13200.00,2,1
+373,2337,nan,3.0,5.0,3 baths,Kita Ku,33857.00,9,2
+374,5153,5.0,nan,1.0,1 bath,Toshima Ku,6496.00,2,2
+375,4270,4.72,1.0,3.0,1 private bath,Taito Ku,21208.00,3,3
+376,4482,4.96,1.0,1.0,1 bath,Shibuya Ku,54782.00,3,7
+377,7128,4.94,3.0,4.0,2 baths,Shinjuku Ku,18800.00,8,1
+378,6740,4.5,2.0,3.0,1.5 baths,Suginami Ku,31500.00,6,1
+379,4486,4.79,1.0,nan,1 private bath,Taito Ku,22204.00,6,1
+380,2179,4.43,1.0,2.0,1 bath,Shinjuku Ku,7714.00,2,2
+381,6032,nan,4.0,7.0,1 bath,Nakano Ku,26240.00,13,20
+382,3355,4.76,1.0,3.0,1 bath,Sumida Ku,11500.00,3,1
+383,10821,4.21,1.0,1.0,1 bath,Minato Ku,12463.00,2,2
+384,2305,4.87,1.0,1.0,1.5 baths,Shibuya Ku,13500.00,1,1
+385,10061,4.92,1.0,2.0,1 bath,Katsushika Ku,10749.00,3,2
+386,5698,4.86,1.0,1.0,1 bath,Shinjuku Ku,23873.00,3,2
+387,7819,nan,1.0,3.0,1.5 baths,Toshima Ku,10800.00,6,4
+388,10926,4.8,2.0,4.0,1.5 baths,Taito Ku,13329.00,5,1
+389,9962,4.9,2.0,3.0,1 bath,Ota Ku,15286.00,6,3
+390,6331,4.85,4.0,5.0,2 baths,Shinjuku Ku,47771.00,9,2
+391,10926,4.84,1.0,1.0,1 bath,Chuo Ku,34500.00,3,2
+392,629,4.8,1.0,1.0,1 bath,Shinjuku Ku,23873.00,3,2
+393,468,5.0,nan,1.0,1 private bath,Arakawa Ku,14286.00,3,1
+394,6807,4.75,2.0,4.0,1.5 baths,Toshima Ku,24371.00,5,1
+395,11076,4.74,1.0,1.0,1 bath,Sumida Ku,9395.00,2,2
+396,2682,4.86,1.0,2.0,1 bath,Edogawa Ku,17575.00,4,3
+397,10538,4.7,1.0,1.0,1 bath,Shibuya Ku,21829.00,6,1
+398,6897,4.71,1.0,5.0,1 bath,Sumida Ku,32571.00,7,1
+399,6872,4.71,nan,2.0,2 shared baths,Setagaya Ku,8000.00,2,2
+400,3413,4.4,1.0,1.0,1 bath,Shinjuku Ku,23873.00,3,2
+401,1087,4.63,1.0,5.0,1 bath,Toshima Ku,22571.00,5,2
+402,7128,4.84,3.0,4.0,2 baths,Ota Ku,34857.00,6,5
+403,11103,nan,1.0,8.0,1 private bath,Shinjuku Ku,32914.00,8,1
+404,11141,4.82,1.0,6.0,1 bath,Shinjuku Ku,500000.00,6,120
+405,8730,nan,2.0,5.0,2 baths,Sumida Ku,42990.00,10,2
+406,3959,4.79,1.0,1.0,1 bath,Nerima Ku,10091.00,2,3
+407,6807,4.97,1.0,3.0,1.5 baths,Sumida Ku,13914.00,4,3
+408,10252,4.82,nan,1.0,1 bath,Shibuya Ku,11942.00,2,1
+409,468,4.0,3.0,3.0,1 shared bath,Toshima Ku,18857.00,6,3
+410,6475,4.29,nan,1.0,1 bath,Kita Ku,6241.00,3,2
+411,2682,4.76,2.0,4.0,1 bath,Minato Ku,36200.00,6,1
+412,6398,4.0,2.0,4.0,2.5 baths,Sumida Ku,25000.00,8,1
+413,1966,5.0,1.0,1.0,1 bath,Shibuya Ku,23000.00,2,4
+414,3892,4.88,2.0,1.0,1 bath,Setagaya Ku,19371.00,10,2
+415,2485,nan,1.0,2.0,1 private bath,Kita Ku,17201.00,2,1
+416,4826,4.46,1.0,1.0,1.5 baths,Meguro Ku,11657.00,2,1
+417,6740,4.82,1.0,3.0,1.5 baths,Taito Ku,30250.00,6,2
+418,5409,4.73,1.0,2.0,1 shared bath,Sumida Ku,5929.00,2,1
+419,10061,3.0,1.0,3.0,1 private bath,Shinjuku Ku,12000.00,4,1
+420,1267,5.0,nan,nan,nan,Taito Ku,8914.00,1,1
+421,8168,4.88,3.0,12.0,3.5 baths,Katsushika Ku,78429.00,16,1
+422,9092,4.92,2.0,6.0,1 bath,Shibuya Ku,33600.00,6,2
+423,1430,5.0,1.0,1.0,1 bath,Sumida Ku,7668.00,2,1
+424,5914,5.0,1.0,2.0,1.5 baths,Toshima Ku,15128.00,2,1
+425,415,4.61,3.0,4.0,1 bath,Toshima Ku,26217.00,5,4
+426,3406,4.84,1.0,1.0,1 bath,Taito Ku,12343.00,2,1
+427,10905,4.9,1.0,1.0,1.5 baths,Taito Ku,7129.00,1,7
+428,2151,4.5,nan,2.0,1 bath,Sumida Ku,16990.00,4,2
+429,838,4.92,3.0,6.0,1 bath,Suginami Ku,35486.00,8,2
+430,3406,4.81,nan,1.0,1 private bath,Taito Ku,9554.00,3,2
+431,2052,4.29,1.0,2.0,1 bath,Shinjuku Ku,12629.00,4,3
+432,2374,3.5,1.0,2.0,1 private bath,Taito Ku,13663.00,3,2
+433,4826,4.85,1.0,1.0,1 bath,Minato Ku,12812.00,2,5
+434,10860,4.52,nan,3.0,1.5 baths,Edogawa Ku,11872.00,4,1
+435,10442,4.8,5.0,4.0,1 bath,Katsushika Ku,27806.00,16,2
+436,838,4.6,2.0,4.0,1.5 baths,Shibuya Ku,25057.00,9,2
+437,3413,4.96,1.0,1.0,1 bath,Suginami Ku,12000.00,2,5
+438,2758,4.81,4.0,1.0,Half-bath,Itabashi Ku,18414.00,9,2
+439,8168,4.55,1.0,1.0,1 bath,Shinjuku Ku,23873.00,2,2
+440,2374,5.0,1.0,3.0,1 bath,Ota Ku,10000.00,3,3
+441,7310,4.58,1.0,5.0,1 bath,Shinjuku Ku,26143.00,6,1
+442,7128,4.73,nan,1.0,1 shared bath,Kunitachi Shi,3786.00,1,1
+443,9092,nan,nan,3.0,1 bath,Edogawa Ku,7000.00,3,2
+444,9155,4.85,nan,2.0,1 private bath,Taito Ku,5800.00,2,1
+445,5675,4.8,2.0,3.0,1 bath,Koto Ku,16200.00,5,1
+446,4696,4.82,1.0,nan,1 bath,Toshima Ku,16817.00,3,1
+447,8235,4.42,1.0,2.0,1 bath,Toshima Ku,12179.00,4,2
+448,1679,4.79,2.0,2.0,2 baths,Shinjuku Ku,33643.00,4,1
+449,4270,4.72,1.0,2.0,1 bath,Toshima Ku,7286.00,3,2
+450,2758,4.57,3.0,5.0,1 bath,Taito Ku,17814.00,9,2
+451,4002,5.0,1.0,1.0,1 shared bath,Shinjuku Ku,21600.00,3,1
+452,5762,4.76,nan,1.0,1 bath,Shinjuku Ku,252544.00,2,1
+453,5242,4.89,1.0,1.0,1 private bath,Taito Ku,23143.00,2,1
+454,3355,4.71,1.0,1.0,1 bath,Shinjuku Ku,15429.00,2,2
+455,6875,4.77,1.0,2.0,1 bath,Sumida Ku,11250.00,3,2
+456,5153,4.71,1.0,2.0,1 bath,Sumida Ku,7796.00,3,2
+457,1857,4.86,1.0,2.0,1 bath,Bunkyo Ku,9514.00,2,2
+458,2682,nan,1.0,2.0,1 bath,Shinjuku Ku,10000.00,4,2
+459,11076,4.87,1.0,1.0,1 bath,Shinjuku Ku,127501.00,2,1
+460,3959,4.94,nan,3.0,1 bath,Taito Ku,11571.00,4,2
+461,4486,4.21,1.0,2.0,1 bath,Taito Ku,7286.00,3,1
+462,5631,4.72,1.0,2.0,1.5 baths,Minato Ku,12566.00,2,1
+463,10860,4.84,2.0,4.0,1 bath,Kita Ku,17143.00,4,2
+464,2115,3.95,2.0,1.0,1 bath,Shinjuku Ku,18000.00,6,1
+465,5052,5.0,1.0,6.0,1 bath,Shinjuku Ku,37286.00,6,2
+466,5698,4.52,2.0,6.0,Half-bath,Toshima Ku,15071.00,6,3
+467,2151,4.88,nan,1.0,1 private bath,Setagaya Ku,13286.00,2,2
+468,5052,4.02,nan,1.0,3 shared baths,Minato Ku,3243.00,1,1
+469,6331,4.6,1.0,2.0,1 bath,Nakano Ku,17429.00,3,2
+470,6026,4.8,1.0,1.0,1 bath,Shinjuku Ku,11057.00,2,1
+471,10239,4.74,2.0,2.0,2 baths,Shinjuku Ku,33643.00,4,1
+472,7959,4.39,1.0,3.0,1 bath,Nakano Ku,25143.00,6,1
+473,10538,4.85,nan,2.0,1 private bath,Taito Ku,5800.00,2,1
+474,4040,4.79,nan,2.0,1.5 baths,Minato Ku,13231.00,4,1
+475,4270,4.5,1.0,1.0,1 bath,Shinjuku Ku,24714.00,2,2
+476,1905,4.95,2.0,nan,1 bath,Kita Ku,18000.00,6,3
+477,10442,4.77,1.0,4.0,1 private bath,Taito Ku,12534.00,8,1
+478,10252,4.96,1.0,2.0,1 bath,Sumida Ku,9714.00,3,5
+479,9155,4.43,nan,1.0,2 shared baths,Chuo Ku,11980.00,1,3
+480,6872,4.8,1.0,2.0,1 bath,Shinjuku Ku,32510.00,4,1
+481,4855,5.0,nan,1.0,6 shared baths,Shinjuku Ku,8886.00,2,2
+482,5052,4.81,nan,2.0,1 bath,Taito Ku,23154.00,6,1
+483,10905,nan,3.0,6.0,2 baths,Toshima Ku,30000.00,8,3
+484,2709,4.67,1.0,2.0,1 bath,Taito Ku,9036.00,2,1
+485,6909,4.5,1.0,2.0,1 bath,Shinjuku Ku,11050.00,2,1
+486,3892,4.9,nan,2.0,1 bath,Toshima Ku,15143.00,3,2
+487,4855,4.57,1.0,1.0,1 private bath,Bunkyo Ku,8500.00,2,1
+488,1966,4.78,1.0,1.0,1 bath,Shibuya Ku,32000.00,3,2
+489,10854,4.7,4.0,5.0,1 bath,Sumida Ku,38571.00,8,2
+490,4696,nan,1.0,1.0,1 bath,Machida Shi,5950.00,2,1
+491,4696,4.86,nan,1.0,2 shared baths,Nerima Ku,6000.00,1,1
+492,838,4.83,2.0,4.0,1.5 baths,Sumida Ku,14209.00,5,1
+493,2115,4.16,1.0,1.0,1 bath,Shinjuku Ku,23873.00,3,2
+494,8730,4.63,1.0,1.0,1 bath,Shinjuku Ku,23873.00,3,2
+495,415,4.56,1.0,2.0,1 bath,Suginami Ku,10552.00,4,1
+496,6331,4.79,1.0,1.0,1 bath,Shinjuku Ku,26143.00,3,1
+497,4826,nan,1.0,3.0,1 bath,Sumida Ku,20000.00,4,1
+498,6398,4.93,1.0,2.0,1 private bath,Taito Ku,10000.00,2,1
+499,1430,nan,1.0,1.0,1 bath,Adachi Ku,12857.00,2,1
