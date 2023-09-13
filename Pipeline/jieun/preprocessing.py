@@ -23,7 +23,7 @@ class InputDataProcessor:
         Private 과 Share 의 의미는 무시함
         '''
         self.df['bathrooms'] = self.df['bathrooms'].apply(lambda x: str(x).split()[0])
-        self.df['bathrooms'] = self.df['bathrooms'].apply(lambda x: 0.5 if (x == 'Half-bath') or (x == 'Shared') else float(x))
+        self.df['bathrooms'] = self.df['bathrooms'].apply(lambda x: 0.5 if (x == 'Half-bath') or (x == 'Shared') or (x == 'Private') else float(x))
         return self.df
     
     def regionOneHot(self):
@@ -42,3 +42,5 @@ class InputDataProcessor:
         self.df = self.bathrooms()
         self.df = self.regionOneHot()
         return self.df
+    
+#TODO : 평점, 침실 수, 침대 수, 지역, 가격, 수용 인원, 최소 숙박 수
