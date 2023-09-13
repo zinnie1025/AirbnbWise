@@ -1,5 +1,6 @@
 import pandas as pd
 import numpy as np
+from sklearn.preprocessing import RobustScaler
 
 class InputDataProcessor:
     '''
@@ -15,7 +16,7 @@ class InputDataProcessor:
         '''
         self.df = self.df.fillna(0)
         return self.df
-    
+
     def bathrooms(self):
         '''
         bathrooms 데이터 값 중 float 값만 추출
