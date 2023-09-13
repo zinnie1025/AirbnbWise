@@ -20,7 +20,7 @@ class InputDataProcessor:
     def bathrooms(self):
         '''
         bathrooms 데이터 값 중 float 값만 추출
-        bathrooms 중 'Half-bath' or 'Shared Half-bath'는 0.5로 변환
+        bathrooms 중 'Half-bath' or 'Shared Half-bath' or 'Private' 은 0.5로 변환
         Private 과 Share 의 의미는 무시함
         '''
         self.df['bathrooms'] = self.df['bathrooms'].apply(lambda x: str(x).split()[0])
