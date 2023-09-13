@@ -2,10 +2,17 @@ import pandas as pd
 import numpy as np
 
 class InputDataProcessor:
+    '''
+    Author : 지은,
+    데이터 전처리
+    '''
     def __init__(self, df):
         self.df = df
-         
+        
     def totalNull(self):
+        '''
+        null 값 모두 0으로 채움
+        '''
         self.df = self.df.fillna(0)
         return self.df
     
@@ -26,7 +33,7 @@ class InputDataProcessor:
         regiondummy = pd.get_dummies(self.df['region'])
         self.df = pd.concat([self.df, regiondummy], axis=1)
         return self.df
-     
+    
     def processing(self):
         '''
         전체 전처리 작업 
