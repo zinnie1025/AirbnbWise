@@ -35,12 +35,20 @@ class InputDataProcessor:
         self.df = pd.concat([self.df, regiondummy], axis=1)
         return self.df
     
+    def name(self):
+        '''
+        숙소명 추출
+        '''
+        self.df['name'] = self.df['name'].apply(lambda x:x.split(' · ')[0])
+        return self.df
+    
     def processing(self):
         '''
         전체 전처리 작업 
         '''
         self.df = self.totalNull()
         self.df = self.bathrooms()
+        self.df = self.name()
         self.df = self.regionOneHot()
         return self.df
     
