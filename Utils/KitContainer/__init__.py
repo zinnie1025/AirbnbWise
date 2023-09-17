@@ -6,9 +6,8 @@ import sys
 #print(sys.path)
 #sys.path.append("C:\\Users\\lucky\\Documents\\COLLABORATION\\AirbnbWise\\Utils")
 #sys.path.append("C:\\Users\\lucky\\Documents\\COLLABORATION\\AirbnbWise\\Utils\\KitContainer")
-base_path = 'C:\\Users\\lucky\\Documents\\COLLABORATION\\AirbnbWise\\Tokyo_Airbnb\\jieun'
-want_path = base_path + '\\filtered_data\\filtered_data_df6.csv'
-df = pd.read_csv(want_path)
+
+df = pd.read_csv('/Users/genie/Documents/COLLABORATION/AirbnbWise/Pipeline/filtered_data/filtered_data4.csv')
 
 if __name__ == '__main__':
     source_lan = 'auto'
@@ -26,7 +25,7 @@ if __name__ == '__main__':
                 print(f'{index}error')
                 pass
     df['kr_comments'] = translated_comments['kr_comments']
-    df.to_csv(base_path + '\\translated_csv\\transDf6.csv', index=False)
+    df.to_csv('/Users/genie/Documents/COLLABORATION/AirbnbWise/Pipeline/translated_data/transdf4.csv', index=False)
 
 
 #test = pd.read_csv('C:\\Users\\lucky\\Documents\\COLLABORATION\\AirbnbWise\\Tokyo_Airbnb\\yunyoung\\translated_csv\\test.csv')
