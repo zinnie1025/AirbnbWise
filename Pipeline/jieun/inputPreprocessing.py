@@ -31,7 +31,7 @@ class InputDataProcessor:
         '''
         숫자만 추출
         '''
-        self.df['price'] = self.df['price'].replace('$', '').replace(',', '')
+        self.df['price'] = self.df['price'].apply(lambda x: x.replace('$', '').replace(',', ''))
         return self.df
     
     def regionOneHot(self):
@@ -41,13 +41,6 @@ class InputDataProcessor:
         regiondummy = pd.get_dummies(self.df['region'])
         self.df = pd.concat([self.df, regiondummy], axis=1)
         return self.df
-    
-    # def name(self):
-    #     '''
-    #     숙소명 추출
-    #     '''
-    #     self.df['name'] = self.df['name'].apply(lambda x:x.split(' · ')[0])
-    #     return self.df
     
     def processing(self):
         '''
