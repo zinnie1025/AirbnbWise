@@ -1,6 +1,6 @@
 import pandas as pd
 import numpy as np
-
+#TODO : 특수문자 제거 기능 추가할 것
 class ReviewDataProcessor:
     def __init__(self, df):
         self.df = df
