@@ -1,6 +1,7 @@
 import pandas as pd
 import numpy as np
 
+#! git push 전 용량 큰 데이터 제외 하고 push .gitignore
 class UserProfile:
     '''
     기존 User가 높은 평점 부여한 숙소 대상 으로,

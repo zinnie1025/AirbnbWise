@@ -27,6 +27,13 @@ class InputDataProcessor:
         self.df['bathrooms'] = self.df['bathrooms'].apply(lambda x: 0.5 if (x == 'Half-bath') or (x == 'Shared') or (x == 'Private') else float(x))
         return self.df
     
+    def price(self):
+        '''
+        숫자만 추출
+        '''
+        self.df['price'] = self.df['price'].apply(lambda x: x.replace('$', '').replace(',', ''))
+        return self.df
+    
     def regionOneHot(self):
         '''
         지역 원핫인코딩
@@ -35,20 +42,13 @@ class InputDataProcessor:
         self.df = pd.concat([self.df, regiondummy], axis=1)
         return self.df
     
-    def name(self):
-        '''
-        숙소명 추출
-        '''
-        self.df['name'] = self.df['name'].apply(lambda x:x.split(' · ')[0])
-        return self.df
-    
     def processing(self):
         '''
         전체 전처리 작업 
         '''
         self.df = self.totalNull()
         self.df = self.bathrooms()
-        self.df = self.name()
+        self.df = self.price()
         self.df = self.regionOneHot()
         return self.df
     
