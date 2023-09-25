@@ -5,6 +5,7 @@ warnings.filterwarnings("ignore")
 import os
 import re
 from tqdm import tqdm
+import ast
 
 from kiwipiepy import Kiwi
 from itertools import chain
@@ -71,14 +72,13 @@ class sentimentKiwi:
         '''
         여러 문장으로 구성된 텍스트 분리
         '''
-        split_result = self.kiwi.split_into_sents(space_comments)
+        split_result = self.kiwi.split_into_sents(space_comments, return_tokens = True)
         split_result = list(split_result)
         return split_result        
     
     def textTokenDataFrame(self, split_result):
         '''
         text와 token을 분리해서 데이터 프레임 생성
-        #! token 부분이 null 값으로 들어가는게 현재 문제
         '''
         text = []
         token = []
@@ -103,22 +103,26 @@ class sentimentKiwi:
         verb : 동사 -> VA : 형용사, VV : 동사, VX : 보조 용언(시제, 높임말)
         radix : 어근 
         '''
+        #! 데이터프레임 열에 값 대입에서 부터 에러!!!!!!
         nouns = []
         verbs = []
-        neg_verbs = []
+        #neg_verbs = []
         radixs = []
 
         for morphs in sentence_df['token']:
-            nouns.append([(noun[0], noun[1]) for noun in morphs if noun[1] in ['NNG', 'NNP']])
-            neg_verbs.append([morphs for noun in morphs if noun[1] in ['VCN']])
-            verbs.append([(verb[0]+'다', verb[1]) for verb in morphs if verb[1] in ['VA', 'VV', 'VX']])
-            radixs.append([(verb[0], verb[1]) for verb in morphs if verb[1] in ['XR']])
-
-        sentence_df['verbs'] = verbs
+            if isinstance(morphs, list):
+                #* morphs 내 각 요소가 두 개의 요소를 가진 튜플인지 확인
+                nouns.append([(noun[0], noun[1]) for noun in morphs if len(noun) == 2 and noun[1] in ['NNG', 'NNP']])
+                verbs.append([(verb[0]+'다', verb[1]) for verb in morphs if len(verb) == 2 and verb[1] in ['VA', 'VV', 'VX']])
+                #neg_verbs.append([morph for morph in morphs if len(morph) == 2 and morph[1] in ['VCN']])
+                radixs.append([(verb[0], verb[1]) for verb in morphs if len(verb) == 2 and verb[1] in ['XR']])
+            else:
+                print(f"Unexpected format for morphs: {morphs}")
         sentence_df['nouns'] = nouns
+        sentence_df['verbs'] = verbs
+        #sentence_df['neg_verbs'] = neg_verbs
         sentence_df['radixs'] = radixs
         return sentence_df
-    
 class preVisualizationtext:
     '''
     wordCloud 텍스트 준비
@@ -126,9 +130,13 @@ class preVisualizationtext:
     def __init__(self, sentence_df):
         self.sentence_df = sentence_df
         
-    def splitWord(self, row):
-        wordList = [word[0] for words in self.sentence_df[row] for word in words]
-        return wordList
+    def split_word(self, row):
+        if type(self.sentence_df[row][0]) == str:
+            target = ast.literal_eval(self.sentence_df[row][0])  
+        else:
+            target = self.sentence_df[row][0]  
+        word_list = [word[0] for words in target for word in words]
+        return word_list
     
     def wordCount(self, wordList):
         word_counts = Counter(wordList)
