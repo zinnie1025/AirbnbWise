@@ -78,6 +78,7 @@ class sentimentKiwi:
     def textTokenDataFrame(self, split_result):
         '''
         text와 token을 분리해서 데이터 프레임 생성
+        #! token 부분이 null 값으로 들어가는게 현재 문제
         '''
         text = []
         token = []
